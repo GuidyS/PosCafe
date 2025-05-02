@@ -1,0 +1,168 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- พื้นไม้ -->
+  <rect width="800" height="600" fill="#8B4513"/>
+  
+  <!-- ลายไม้ -->
+  <g fill="#6B3A10" opacity="0.6">
+    <rect x="0" y="30" width="800" height="3" />
+    <rect x="0" y="80" width="800" height="2" />
+    <rect x="0" y="150" width="800" height="4" />
+    <rect x="0" y="210" width="800" height="2" />
+    <rect x="0" y="280" width="800" height="3" />
+    <rect x="0" y="350" width="800" height="4" />
+    <rect x="0" y="410" width="800" height="2" />
+    <rect x="0" y="470" width="800" height="3" />
+    <rect x="0" y="520" width="800" height="2" />
+    <rect x="0" y="570" width="800" height="4" />
+  </g>
+  
+  <!-- ขอบไม้เข้มกว่า -->
+  <g fill="#5D2F0E" opacity="0.5">
+    <ellipse cx="200" cy="100" rx="30" ry="20" />
+    <ellipse cx="600" cy="200" rx="40" ry="25" />
+    <ellipse cx="300" cy="400" rx="35" ry="20" />
+    <ellipse cx="700" cy="450" rx="25" ry="15" />
+    <ellipse cx="100" cy="500" rx="30" ry="18" />
+  </g>
+  
+  <!-- เมล็ดกาแฟด้านล่าง -->
+  <g>
+    <!-- แถวล่างสุด -->
+    <g fill="#3E1C09" stroke="#2A1105" stroke-width="1">
+      <ellipse cx="50" cy="560" rx="15" ry="12" />
+      <ellipse cx="90" cy="570" rx="15" ry="12" />
+      <ellipse cx="130" cy="560" rx="15" ry="12" />
+      <ellipse cx="170" cy="570" rx="15" ry="12" />
+      <ellipse cx="210" cy="560" rx="15" ry="12" />
+      <ellipse cx="250" cy="570" rx="15" ry="12" />
+      <ellipse cx="290" cy="560" rx="15" ry="12" />
+      <ellipse cx="330" cy="570" rx="15" ry="12" />
+      <ellipse cx="370" cy="560" rx="15" ry="12" />
+      <ellipse cx="410" cy="570" rx="15" ry="12" />
+      <ellipse cx="450" cy="560" rx="15" ry="12" />
+      <ellipse cx="490" cy="570" rx="15" ry="12" />
+      <ellipse cx="530" cy="560" rx="15" ry="12" />
+      <ellipse cx="570" cy="570" rx="15" ry="12" />
+      <ellipse cx="610" cy="560" rx="15" ry="12" />
+      <ellipse cx="650" cy="570" rx="15" ry="12" />
+      <ellipse cx="690" cy="560" rx="15" ry="12" />
+      <ellipse cx="730" cy="570" rx="15" ry="12" />
+      <ellipse cx="770" cy="560" rx="15" ry="12" />
+    </g>
+    
+    <!-- แถวที่สอง -->
+    <g fill="#5A2E11" stroke="#3E1F0A" stroke-width="1">
+      <ellipse cx="30" cy="540" rx="15" ry="12" />
+      <ellipse cx="70" cy="530" rx="15" ry="12" />
+      <ellipse cx="110" cy="540" rx="15" ry="12" />
+      <ellipse cx="150" cy="530" rx="15" ry="12" />
+      <ellipse cx="190" cy="540" rx="15" ry="12" />
+      <ellipse cx="230" cy="530" rx="15" ry="12" />
+      <ellipse cx="270" cy="540" rx="15" ry="12" />
+      <ellipse cx="310" cy="530" rx="15" ry="12" />
+      <ellipse cx="350" cy="540" rx="15" ry="12" />
+      <ellipse cx="390" cy="530" rx="15" ry="12" />
+      <ellipse cx="430" cy="540" rx="15" ry="12" />
+      <ellipse cx="470" cy="530" rx="15" ry="12" />
+      <ellipse cx="510" cy="540" rx="15" ry="12" />
+      <ellipse cx="550" cy="530" rx="15" ry="12" />
+      <ellipse cx="590" cy="540" rx="15" ry="12" />
+      <ellipse cx="630" cy="530" rx="15" ry="12" />
+      <ellipse cx="670" cy="540" rx="15" ry="12" />
+      <ellipse cx="710" cy="530" rx="15" ry="12" />
+      <ellipse cx="750" cy="540" rx="15" ry="12" />
+      <ellipse cx="790" cy="530" rx="15" ry="12" />
+    </g>
+    
+    <!-- แถวที่สาม -->
+    <g fill="#6B3A12" stroke="#4A2810" stroke-width="1">
+      <ellipse cx="50" cy="510" rx="15" ry="12" />
+      <ellipse cx="90" cy="520" rx="15" ry="12" />
+      <ellipse cx="130" cy="510" rx="15" ry="12" />
+      <ellipse cx="170" cy="520" rx="15" ry="12" />
+      <ellipse cx="210" cy="510" rx="15" ry="12" />
+      <ellipse cx="250" cy="520" rx="15" ry="12" />
+      <ellipse cx="290" cy="510" rx="15" ry="12" />
+      <ellipse cx="330" cy="520" rx="15" ry="12" />
+      <ellipse cx="370" cy="510" rx="15" ry="12" />
+      <ellipse cx="410" cy="520" rx="15" ry="12" />
+      <ellipse cx="450" cy="510" rx="15" ry="12" />
+      <ellipse cx="490" cy="520" rx="15" ry="12" />
+      <ellipse cx="530" cy="510" rx="15" ry="12" />
+      <ellipse cx="570" cy="520" rx="15" ry="12" />
+      <ellipse cx="610" cy="510" rx="15" ry="12" />
+      <ellipse cx="650" cy="520" rx="15" ry="12" />
+      <ellipse cx="690" cy="510" rx="15" ry="12" />
+      <ellipse cx="730" cy="520" rx="15" ry="12" />
+      <ellipse cx="770" cy="510" rx="15" ry="12" />
+    </g>
+  </g>
+  
+  <!-- ใบไม้ -->
+  <g transform="translate(600, 400) rotate(-15)">
+    <path d="M0,0 C20,-40 40,-20 30,20 C60,-10 40,30 10,30 C40,50 0,40 -20,20 C-40,40 -40,0 -10,-10 C-40,-30 -20,-40 0,0 Z" 
+          fill="#4CAF50" stroke="#388E3C" stroke-width="1.5" />
+    <path d="M-5,0 C0,-20 5,0 0,20 Z" fill="#388E3C" stroke="#388E3C" stroke-width="0.5" />
+  </g>
+  
+  <!-- เมล็ดกาแฟที่กระจายทั่วพื้นที่ -->
+  <g fill="#5A2E11" stroke="#3E1F0A" stroke-width="1">
+    <ellipse cx="100" cy="100" rx="15" ry="12" transform="rotate(45, 100, 100)" />
+    <ellipse cx="150" cy="150" rx="13" ry="10" transform="rotate(30, 150, 150)" />
+    <ellipse cx="250" cy="120" rx="16" ry="13" transform="rotate(15, 250, 120)" />
+    <ellipse cx="350" cy="90" rx="14" ry="11" transform="rotate(60, 350, 90)" />
+    <ellipse cx="450" cy="130" rx="17" ry="14" transform="rotate(25, 450, 130)" />
+    <ellipse cx="550" cy="110" rx="15" ry="12" transform="rotate(40, 550, 110)" />
+    <ellipse cx="650" cy="140" rx="16" ry="13" transform="rotate(55, 650, 140)" />
+    <ellipse cx="200" cy="200" rx="15" ry="12" transform="rotate(35, 200, 200)" />
+    <ellipse cx="300" cy="220" rx="14" ry="11" transform="rotate(20, 300, 220)" />
+    <ellipse cx="400" cy="190" rx="16" ry="13" transform="rotate(50, 400, 190)" />
+    <ellipse cx="500" cy="210" rx="15" ry="12" transform="rotate(15, 500, 210)" />
+    <ellipse cx="600" cy="180" rx="17" ry="14" transform="rotate(45, 600, 180)" />
+    <ellipse cx="700" cy="230" rx="14" ry="11" transform="rotate(30, 700, 230)" />
+  </g>
+  
+  <!-- รอยแตกของเมล็ดกาแฟ -->
+  <g stroke="#2A1105" stroke-width="0.5">
+    <path d="M100,100 L115,95" transform="rotate(45, 100, 100)" />
+    <path d="M150,150 L163,148" transform="rotate(30, 150, 150)" />
+    <path d="M250,120 L265,115" transform="rotate(15, 250, 120)" />
+    <path d="M350,90 L363,85" transform="rotate(60, 350, 90)" />
+    <path d="M450,130 L465,125" transform="rotate(25, 450, 130)" />
+    <path d="M550,110 L565,105" transform="rotate(40, 550, 110)" />
+    <path d="M650,140 L665,135" transform="rotate(55, 650, 140)" />
+  </g>
+  
+  <!-- เมล็ดกาแฟที่มีรายละเอียดมากขึ้น -->
+  <g fill="#3E1C09" stroke="#2A1105" stroke-width="1">
+    <ellipse cx="150" cy="300" rx="18" ry="14" transform="rotate(25, 150, 300)" />
+    <path d="M150,300 L167,295" transform="rotate(25, 150, 300)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="200" cy="350" rx="16" ry="12" transform="rotate(40, 200, 350)" />
+    <path d="M200,350 L215,345" transform="rotate(40, 200, 350)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="250" cy="300" rx="17" ry="13" transform="rotate(15, 250, 300)" />
+    <path d="M250,300 L266,297" transform="rotate(15, 250, 300)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="300" cy="350" rx="15" ry="11" transform="rotate(30, 300, 350)" />
+    <path d="M300,350 L314,346" transform="rotate(30, 300, 350)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="350" cy="300" rx="18" ry="14" transform="rotate(45, 350, 300)" />
+    <path d="M350,300 L367,295" transform="rotate(45, 350, 300)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="400" cy="350" rx="16" ry="12" transform="rotate(20, 400, 350)" />
+    <path d="M400,350 L415,347" transform="rotate(20, 400, 350)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="450" cy="300" rx="17" ry="13" transform="rotate(35, 450, 300)" />
+    <path d="M450,300 L466,296" transform="rotate(35, 450, 300)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="500" cy="350" rx="15" ry="11" transform="rotate(25, 500, 350)" />
+    <path d="M500,350 L514,346" transform="rotate(25, 500, 350)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="550" cy="300" rx="18" ry="14" transform="rotate(50, 550, 300)" />
+    <path d="M550,300 L567,295" transform="rotate(50, 550, 300)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="600" cy="350" rx="16" ry="12" transform="rotate(15, 600, 350)" />
+    <path d="M600,350 L615,348" transform="rotate(15, 600, 350)" stroke="#2A1105" stroke-width="0.5" />
+    <ellipse cx="650" cy="300" rx="17" ry="13" transform="rotate(30, 650, 300)" />
+    <path d="M650,300 L666,296" transform="rotate(30, 650, 300)" stroke="#2A1105" stroke-width="0.5" />
+  </g>
+  
+  <!-- ใบไม้เพิ่มเติม -->
+  <g transform="translate(200, 400) rotate(15)">
+    <path d="M0,0 C15,-30 30,-15 25,15 C45,-8 30,22 8,22 C30,38 0,30 -15,15 C-30,30 -30,0 -8,-8 C-30,-22 -15,-30 0,0 Z" 
+          fill="#4CAF50" stroke="#388E3C" stroke-width="1.5" />
+    <path d="M-4,0 C0,-15 4,0 0,15 Z" fill="#388E3C" stroke="#388E3C" stroke-width="0.5" />
+  </g>
+</svg>
